@@ -36,9 +36,7 @@ Integrity checks
   - several flarial & order client hooks
   - common functions used by mc clients
 - Seperate BASIC Integrity checks on windows functions used by BEAC
-- Anticheat integrity checks for the code section
-
-Anticheat memory validation using a seperate encrypted version of BEAC & checksums<br/>
+- Anticheat integrity checks for code section
 
 Hooks on functions like LoadLibraryA, LoadLibraryW that validates windows certificates to stop basic injectors that use CRT</br>
 
