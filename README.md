@@ -13,7 +13,8 @@ also want to include icon signatures MEMORY.FIRST checks in temp and a few other
 I plan to tell clients if they should send secured packets so you can play normal servers with this (later)
 
 # Goal
-goal is to move as many hyperion (roblox) checks recreated & hopefully better to minecraft bedrock
+goal is to move as many hyperion (roblox) checks recreated & hopefully better to minecraft bedrock <br/>
+im probably gonna host a PVP server using this anticheat plus some more custom serverside checks
 
 # Features
 While giving minimal information on what these actually include here is a quick rundown of the highlights<br/>
