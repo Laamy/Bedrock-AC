@@ -42,6 +42,6 @@ Hooks on functions like LoadLibraryA, LoadLibraryW that validates windows certif
 
 Memory whitelist to stop manual mapping (to avoid injection using poolparty vuln and kernel mmappers)</br>
 
-Secure & heavily encrypted packets that go over raknet with info about the client so you cant just unload the anticheat</br>
+Secure packets that go over raknet with info about the client so you cant just unload the anticheat</br>
 
 Anticheat encryption & security on ALL important functions to stop IDA xref & Loads more
