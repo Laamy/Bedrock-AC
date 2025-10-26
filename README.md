@@ -30,12 +30,13 @@ Anti debugging
 
 Basic AntiVM<br/>
 
-Integrity checks on vital mc functions used by several clients
-- All nitr0 hooks
-- several flarial & order client hooks
-- common functions used by mc clients
-
-Seperate Integrity checks on windows functions used by BEAC<br/>
+Integrity checks
+- Integrity checks on vital mc functions used by several clients
+  - All nitr0 hooks
+  - several flarial & order client hooks
+  - common functions used by mc clients
+- Seperate BASIC Integrity checks on windows functions used by BEAC
+- Anticheat integrity checks for the code section
 
 Anticheat memory validation using a seperate encrypted version of BEAC & checksums<br/>
 
