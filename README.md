@@ -12,6 +12,9 @@ A worker service that runs on the side with the anticheat to check for hyperviso
 also want to include icon signatures MEMORY.FIRST checks in temp and a few others for cheat engine and other misc tools like process inform<br/>
 I plan to tell clients if they should send secured packets so you can play normal servers with this (later)
 
+# Goal
+goal is to move as many hyperion (roblox) checks recreated & hopefully better to minecraft bedrock
+
 # Features
 While giving minimal information on what these actually include here is a quick rundown of the highlights<br/>
 
