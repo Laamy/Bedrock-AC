@@ -2,6 +2,9 @@
 do NOT join a public server with the anticheat active else you will get immedately banned <br/>
 feel free to join a local world with this anticheat active and try bypass it
 
+# Servers
+Test server (Feel free to try cheat, AC required) - 147.185.221.27:48834
+
 # How to install
 put the winhttp.dll module next to bedrock_server.exe (to secure your server)
 or next to Minecraft.Windows.exe to secure the client
