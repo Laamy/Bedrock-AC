@@ -1,5 +1,6 @@
 # Notes
-do NOT join a public server with the anticheat active else you will get immedately banned
+do NOT join a public server with the anticheat active else you will get immedately banned <br/>
+feel free to join a local world with this anticheat active and try bypass it
 
 # How to install
 put the winhttp.dll module next to bedrock_server.exe (to secure your server)
