@@ -5,6 +5,8 @@ feel free to join a local world with this anticheat active and try bypass it
 # Servers
 Test server (Feel free to try cheat, INSTALL THE RELEASE <-- REQUIRED) - 147.185.221.27:48834 (AU)
 
+List of people who have bypassed:
+
 # How to install
 put the winhttp.dll module next to bedrock_server.exe (to secure your server)
 or next to Minecraft.Windows.exe to secure the client
