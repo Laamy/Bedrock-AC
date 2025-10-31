@@ -2,6 +2,8 @@
 do NOT join a public server with the anticheat active else you will get immedately banned <br/>
 feel free to join a local world with this anticheat active and try bypass it
 
+Also this is less of an anticheat and more of an antitamper so normal methods to bypass client-server anticheats will not work with it
+
 # Servers
 Test server (Feel free to try cheat, INSTALL THE RELEASE <-- REQUIRED) - 147.185.221.27:48834 (AU)
 
