@@ -29,11 +29,8 @@ Goal is to make an antitamper similar to robloxes hyperion to Minecraft Bedrock 
 im probably gonna host a PVP server using this anticheat plus some more custom serverside checks
 
 # Main Features
-While giving minimal information on what these actually include here is a quick rundown of the highlights<br/>
-
-Anti debugging
-
-Basic AntiVM<br/>
+While giving minimal information on what these actually include here is a quick rundown of the highlights (Check back a few commits to see a larger list)<br/>
+NOTE: I decided to only list these 3 so you know what your getting into without me exposing to much
 
 [Memory whitelist](https://github.com/Laamy/MemoryWhitelist) to stop manual mapping (Open source feel free to look at this)</br>
 
