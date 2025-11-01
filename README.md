@@ -20,8 +20,7 @@ or next to Minecraft.Windows.exe to secure the client
 only secured clients can connect to secured servers
 
 # TODO
-A worker service that runs on the side with the antitamper to check for hypervisors loaded by drivers & DSE for people patching it before win11 24h2<br/>
-also want to include icon signatures MEMORY.FIRST checks in temp and a few others for cheat engine and other misc tools like process inform<br/>
+NOTE: A worker service is no longer required as of v1.21.120 because of GDK Platform letting me access everything i need</br>
 I plan to tell clients if they should send secured packets so you can play normal servers with this (later)
 
 # Goal
