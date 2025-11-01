@@ -3,11 +3,15 @@ do NOT join a public server with the anticheat active else you will get immedate
 feel free to join a local world with this anticheat active and try bypass it
 
 Also this is less of an anticheat and more of an antitamper so normal methods to bypass client-server anticheats will not work with it
+I will now refer to it as BEAC (**BE**drock **A**nti**C**heat)
 
 # Servers
-Test server (Feel free to try cheat, INSTALL THE RELEASE <-- REQUIRED) - 147.185.221.27:48834 (AU)
+You will be kicked from these servers unless the required BEAC module version is installed and running
 
-List of people who have bypassed:
+147.185.221.27:48834 (AU) (Latest BEAC/v1.21.114) Test server (Feel free to try cheat, INSTALL THE RELEASE <-- REQUIRED)
+
+List of people who have bypassed: (msg me on discord yeemi.2 to get added) </br>
+No one
 
 # How to install
 put the winhttp.dll module next to bedrock_server.exe (to secure your server)
@@ -21,22 +25,17 @@ also want to include icon signatures MEMORY.FIRST checks in temp and a few other
 I plan to tell clients if they should send secured packets so you can play normal servers with this (later)
 
 # Goal
-goal is to move as many hyperion (roblox) checks recreated & hopefully better to minecraft bedrock <br/>
+Goal is to make an antitamper similar to robloxes hyperion to Minecraft Bedrock Edition <br/>
 im probably gonna host a PVP server using this anticheat plus some more custom serverside checks
 
 # Main Features
 While giving minimal information on what these actually include here is a quick rundown of the highlights<br/>
 
 Anti debugging
-- there are several antidebugging methods used in BEAC including but not limited to
-  - IsDebuggerPresent (with integrity checks)
-  - TEB
-  - DebugBreak traps
-  - OutputDebugString traps
-  - memory traps (including modified memory permissions & int3's scattered around)
-  - all of these are inlined and used in several places while being as small as possible to basically crap on debugging without a hypervisor like BDVM
 
 Basic AntiVM<br/>
+
+[Memory whitelist](https://github.com/Laamy/MemoryWhitelist) to stop manual mapping (Open source feel free to look at this)</br>
 
 Integrity checks
 - Integrity checks on vital mc functions used by several clients
@@ -44,12 +43,7 @@ Integrity checks
   - several flarial & order client hooks
   - common functions used by mc clients
 - Seperate BASIC Integrity checks on windows functions used by BEAC
-- Anticheat integrity checks for code section
+- Complete validation of BEAC module on the server side
+- BEAC integrity checks for code section
 
 Hooks on functions like LoadLibraryA, LoadLibraryW that validates windows certificates to stop basic injectors that use CRT</br>
-
-Memory whitelist to stop manual mapping (to avoid injection using poolparty vuln and kernel mmappers)</br>
-
-Secure packets that go over raknet with info about the client so you cant just unload the anticheat</br>
-
-Anticheat encryption & security on ALL important functions to stop IDA xref & Loads more
