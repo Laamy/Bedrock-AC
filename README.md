@@ -3,7 +3,7 @@ do NOT join a public server with the anticheat active else you will get immedate
 feel free to join a local world with this anticheat active and try bypass it
 
 Also this is less of an anticheat and more of an antitamper so normal methods to bypass client-server anticheats will not work with it</br>
-I will now refer to it as BEAC (**BE**drock **A**nti**C**heat)
+I will now refer to it as BEAC (**BE**drock **A**nti**C**heat/Antitamper)
 
 # Servers
 You will be kicked from these servers unless the required BEAC module version is installed and running
