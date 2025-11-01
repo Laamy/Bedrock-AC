@@ -20,13 +20,13 @@ or next to Minecraft.Windows.exe to secure the client
 only secured clients can connect to secured servers
 
 # TODO
-A worker service that runs on the side with the anticheat to check for hypervisors loaded by drivers & DSE for people patching it before win11 24h2<br/>
+A worker service that runs on the side with the antitamper to check for hypervisors loaded by drivers & DSE for people patching it before win11 24h2<br/>
 also want to include icon signatures MEMORY.FIRST checks in temp and a few others for cheat engine and other misc tools like process inform<br/>
 I plan to tell clients if they should send secured packets so you can play normal servers with this (later)
 
 # Goal
 Goal is to make an antitamper similar to robloxes hyperion to Minecraft Bedrock Edition <br/>
-im probably gonna host a PVP server using this anticheat plus some more custom serverside checks
+im probably gonna host a PVP server using this antitamper plus some more custom serverside checks
 
 # Main Features
 While giving minimal information on what these actually include here is a quick rundown of the highlights (Check back a few commits to see a larger list)<br/>
