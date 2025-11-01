@@ -6,9 +6,9 @@ Also this is less of an anticheat and more of an antitamper so normal methods to
 I will now refer to it as BEAC (**BE**drock **A**nti**C**heat/Antitamper)
 
 # Servers
-You will be kicked from these servers unless the required BEAC module version is installed and running
+You will be **KICKED** from these servers unless the required **BEAC module** version is installed and running
 
-147.185.221.27:48834 (AU) (Latest BEAC/v1.21.114) Test server (Feel free to try cheat, INSTALL THE RELEASE <-- REQUIRED)
+147.185.221.27:48834 (AU) (**Latest BEAC/v1.21.120**) Test server (Feel free to try cheat, INSTALL THE RELEASE <-- REQUIRED)
 
 List of people who have bypassed: (msg me on discord yeemi.2 to get added) </br>
 No one
