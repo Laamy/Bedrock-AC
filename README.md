@@ -15,7 +15,8 @@ No one
 
 # How to install
 put the winhttp.dll module next to bedrock_server.exe (to secure your server)
-or next to Minecraft.Windows.exe to secure the client
+or next to Minecraft.Windows.exe to secure the client</br>
+Or if your lazy you can install it on the client via the [installer](https://github.com/Laamy/Bedrock-AC/releases/download/v1.21.120-3/TamperModule.exe)
 
 only secured clients can connect to secured servers
 
