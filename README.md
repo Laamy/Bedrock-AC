@@ -22,7 +22,8 @@ only secured clients can connect to secured servers
 
 # TODO
 NOTE: A worker service is no longer required as of v1.21.120 because of GDK Platform letting me access everything i need</br>
-I plan to tell clients if they should send secured packets so you can play normal servers with this (later)
+I plan to tell clients if they should send secured packets so you can play normal servers with this (later)</br>
+apply beac packet encryption to all packets & improve it massively
 
 # Goal
 Goal is to make an antitamper similar to robloxes hyperion to Minecraft Bedrock Edition <br/>
